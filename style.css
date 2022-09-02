@@ -105,9 +105,9 @@ button:hover{
 #pic:hover{
     transform: scale(1.1);
 }
-.galleryart:hover {
+/* .galleryart:hover {
     transform: scale(1.05);
-}
+} */
 
 #titleimg:hover,#titleimg2:hover,#titleimg3:hover,#socials:hover {
     transform: scale(1.3);
