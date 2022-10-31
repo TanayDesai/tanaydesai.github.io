@@ -120,7 +120,7 @@ body{
 .projects{
     /* margin-top: 50px; */
     position: absolute;
-    top: 70%;
+    top: 90%;
     width: 100%;
     height: fit-content;
    
@@ -151,12 +151,12 @@ body{
 .projectssubheader2{
     font-family: myFirstFont;
     font-size: 20;
+    color: black;
     margin-top: 10px;
  
    
 }
 #particles-js {
-    /* min-height: 100vh; */
     width: 100%;
     /* margin-bottom: 50px; */
     justify-content: center;
